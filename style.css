@@ -1,0 +1,62 @@
+body{
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.contenitore{
+  text-align: center;
+  
+
+
+
+}
+.Centro{
+  text-align: center;
+  width: 50%;
+  display: inline-block;
+  line-height: 1px
+}
+#logo{
+  width: 300px;
+}
+h1{
+  color: #0ee901;
+}
+nav{
+  background-color: #0ee901;
+  padding: 5px;
+}
+.corpo{
+  align-content: center;
+  width: 50%;
+  margin: 0 auto;
+  line-height:1px;
+  }
+  h2{
+    display: inline-block;
+}
+#hr1{
+  height: 20px;
+  background-color: #FFD700;
+  width: 30%;
+  border-radius: 9%;
+}
+#hr2{
+  height: 20px;
+  background-color: #0ee901;
+  width: 60%;
+  border-radius: 9%;
+}
+#hr3{
+  height: 20px;
+  background-color: #B22222;
+  width: 14%;
+  border-radius: 9%;
+}
+
+.monopattino1, .monopattino2, .monopattino3{
+
+  color: #E6E6FA;
+}
